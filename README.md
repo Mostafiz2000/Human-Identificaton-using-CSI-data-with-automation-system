@@ -20,3 +20,9 @@ Keywords: Internet of Things, Pedestrian identification, ESP32 devices, Chan-
 nel state information, Back-end system, optimized pre-processing, Deep learning
 models.
 ii
+# Screen shot
+![Check7](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/d2319ae8-8b9d-42b1-abb6-21dc3930a006)
+![environment](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/3cf8d35c-72e2-42b5-8095-ac6d4388eae7)
+
+![GetData1](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/278b0b83-27cc-4612-85bb-4c10cde0fc1d)
+
