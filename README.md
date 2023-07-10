@@ -1,5 +1,5 @@
 # Human-Identificaton-using-CSI-data-with-automation-system
-This Project presents an innovative IoT system for indoor pedestrian identifica-
+This Project presents an innovative IoT system for indoor human identifica-
 tion. The system utilizes advanced techniques such as Long Short-Term Memory
 (LSTM) and Convolutional Neural Networks (CNN) to analyze gait character-
 istics. It collects Channel State Information (CSI) from two cost-effective ESP32
