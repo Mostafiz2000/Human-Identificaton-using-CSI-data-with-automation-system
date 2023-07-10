@@ -21,8 +21,8 @@ nel state information, Back-end system, optimized pre-processing, Deep learning
 models.
 ii
 # ScreenShots
-![munim](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/df937d74-86f5-469c-855c-90c83f130076 = 450x250)
-![Check4](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/cf5e860e-0d6f-47a2-9131-14c9277fda3f = 450x250)
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/df937d74-86f5-469c-855c-90c83f130076)" width="300" height="400" />
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/df937d74-86f5-469c-855c-90c83f130076)](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/cf5e860e-0d6f-47a2-9131-14c9277fda3f)" width="300" height="400" />
+<img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/8d844c4a-c7ac-44a3-a7ff-6c4c7ce40501" width="300" height="400" />
+<img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/bad19493-0258-40bc-9052-19dfacb61fbd" width="300" height="400" />
 
-![GetData1](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/8d844c4a-c7ac-44a3-a7ff-6c4c7ce40501)
-![environment](https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/bad19493-0258-40bc-9052-19dfacb61fbd)
