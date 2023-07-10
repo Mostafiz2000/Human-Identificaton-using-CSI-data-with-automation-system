@@ -23,7 +23,7 @@ models.
 
 # ScreenShots
 <img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/4f789f91-5436-414c-a742-2342fdd1caed" width="250" height="400" />
-<img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/df937d74-86f5-469c-855c-90c83f130076)" width="250" height="400" />
+
 <img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/8d844c4a-c7ac-44a3-a7ff-6c4c7ce40501" width="250" height="400" />
 <img src="https://github.com/Mostafiz2000/Human-Identificaton-using-CSI-data-with-automation-system/assets/73824602/bad19493-0258-40bc-9052-19dfacb61fbd" width="250" height="400" />
 
